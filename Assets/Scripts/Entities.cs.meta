@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 361e3c7f9aeb09045848350ba40a5b3f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - townCenter: {fileID: 4084463295438711599, guid: aeb88568fc975a44eb303a773ef9fdb3,
+      type: 3}
+  - house: {fileID: 1170009126111481585, guid: ff25fb0c0cc98c24dac3f9fd2e43a6f7, type: 3}
+  - library: {fileID: 3435419045045937204, guid: 959911c5d0bb0484baeff1ad59717741,
+      type: 3}
+  - barracks: {fileID: 7513927996986996393, guid: aeee30b59fbc42a40a689b6e967b19a0,
+      type: 3}
+  - archeryRange: {fileID: 7978563104269745073, guid: 4685b11768f38a64bb6e0e679b883aaa,
+      type: 3}
+  - stable: {fileID: 6127271997734100565, guid: 316533467d16d3d418c11927128f8ae0,
+      type: 3}
+  - tower: {fileID: 4007049516551243773, guid: 1a606553998045741a7616b20f801e11, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
