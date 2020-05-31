@@ -307,22 +307,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7363815262229032225}
     m_Modifications:
+    - target: {fileID: 207088174380729284, guid: 86b8cd746032c4441a8822b682b08af1,
+        type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 611209370757716532, guid: 86b8cd746032c4441a8822b682b08af1,
         type: 3}
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
     - target: {fileID: 611209370757716532, guid: 86b8cd746032c4441a8822b682b08af1,
-        type: 3}
-      propertyPath: m_Layer
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 207088174380729284, guid: 86b8cd746032c4441a8822b682b08af1,
-        type: 3}
-      propertyPath: m_Layer
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4210655330367295203, guid: 86b8cd746032c4441a8822b682b08af1,
         type: 3}
       propertyPath: m_Layer
       value: 0
@@ -431,6 +426,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4210655330367295203, guid: 86b8cd746032c4441a8822b682b08af1,
+        type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86b8cd746032c4441a8822b682b08af1, type: 3}

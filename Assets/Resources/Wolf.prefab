@@ -1430,11 +1430,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4626763402450287169}
     m_Modifications:
-    - target: {fileID: 6977484986590144754, guid: 2ef5b4241f12a5c4f8bdf7803a81721f,
-        type: 3}
-      propertyPath: m_Name
-      value: Attack Collider
-      objectReference: {fileID: 0}
     - target: {fileID: 6330159753798268650, guid: 2ef5b4241f12a5c4f8bdf7803a81721f,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1489,6 +1484,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6977484986590144754, guid: 2ef5b4241f12a5c4f8bdf7803a81721f,
+        type: 3}
+      propertyPath: m_Name
+      value: Attack Collider
       objectReference: {fileID: 0}
     - target: {fileID: 3585049643713885728, guid: 2ef5b4241f12a5c4f8bdf7803a81721f,
         type: 3}
